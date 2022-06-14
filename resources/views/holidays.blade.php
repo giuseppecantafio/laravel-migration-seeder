@@ -1,5 +1,5 @@
 @extends('layout.layout')
-@section('pageTitle', 'Welcome in Booltrips')
+@section('pageTitle', 'I nostri non-viaggi')
 @section('mainContent')
 <div class="container">
     <div class="row">
